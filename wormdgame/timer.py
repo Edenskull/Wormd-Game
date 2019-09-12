@@ -25,7 +25,7 @@ class timeout(object):
         def wrapped_f(*args, **kwargs):
             it = InterruptableThread(f, *args, **kwargs)
             it.start()
-            it.join(self._sec)
+            it.join(args[1])
             if not it.is_alive():
                 return it.result
             raise TimeoutError
