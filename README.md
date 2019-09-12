@@ -1,2 +1,2 @@
 # Wormd-Game
-Simple pytho game with words and scaling difficulty
+Simple python game with words and scaling difficulty
