@@ -13,6 +13,10 @@
 # Wormd-Game
 Simple python game with words and scaling difficulty
 
+## Table of contents
+* [Installation](#installation)
+* [Documentation](#documentation)
+
 ## Installation
 This game has been tested on python 3.7 and is optimized for this python version : 
 ```console
