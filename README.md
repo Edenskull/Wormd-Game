@@ -1,3 +1,12 @@
+<div align="center">
+  <img src=".github/_static/Wormd-Game_Banner.png">
+</div>
+
+[![GitHub license](https://img.shields.io/github/license/Edenskull/Wormd-Game?color=blue&style=for-the-badge)](https://github.com/Edenskull/Wormd-Game/blob/master/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/Edenskull/Wormd-Game?color=green&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/badge/Python-3.6%20%7C%203.7-yellow?style=for-the-badge)
+
+
 # Wormd-Game
 Simple python game with words and scaling difficulty
 
