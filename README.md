@@ -26,6 +26,10 @@ Once it's done you can install all the required libraries (requirements.txt mean
 ````console
 Edenskull@rvb:~$ pip install -r requirements.txt
 ````
+Or with dual environment : 
+````console
+Edenskull@rvb:~$ pip3 install -r requirements.txt
+````
 Then you can run the game either way : 
 ````console
 Edenskull@rvb:~$ wormdgame.py
@@ -33,6 +37,10 @@ Edenskull@rvb:~$ wormdgame.py
 or
 ````console
 Edenskull@rvb:~$ python wormdgame.py
+````
+or
+````console
+Edenskull@rvb:~$ python3 wormdgame.py
 ````
 
 ## Documentation
